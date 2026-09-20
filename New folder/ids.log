@@ -1,5 +1,0 @@
-{"timestamp": "2026-05-02T09:04:45.802175Z", "level": "INFO", "message": "IDS starting — config loaded from config.yaml"}
-{"timestamp": "2026-05-02T09:04:45.822189Z", "level": "INFO", "message": "PacketCaptureEngine starting on interface \\Device\\NPF_{2D1B92A3-3BAD-453F-99E1-E9E63649065C}"}
-{"timestamp": "2026-05-02T09:04:45.822609Z", "level": "INFO", "message": "DetectionEngine started"}
-{"timestamp": "2026-05-02T09:04:45.824030Z", "level": "INFO", "message": "Dashboard starting on http://0.0.0.0:5000"}
-{"timestamp": "2026-05-02T09:04:45.824544Z", "level": "INFO", "message": "IDS started — capture, detection, and dashboard running (dashboard: http://localhost:5000)"}
